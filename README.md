@@ -18,6 +18,9 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
+<p>Why not treat me to a cup of coffee? </p>
+<a href="https://www.buymeacoffee.com/shehanfernando" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 <h3>My GitHub contributions summary</h3>
 
 [![GitHub Streak](https://github-readme-streak-stats-lemon-seven.vercel.app?user=IT21823398&theme=midnight-purple)](https://git.io/streak-stats)
