@@ -25,4 +25,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats-lemon-seven.vercel.app?user=IT21823398&theme=midnight-purple)](https://git.io/streak-stats)
 
-![Shehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=IT21823398&hide_border=true&show_icons=true&bg_color=000000&title_color=800080&icon_color=800080&text_bold=false&text_color=9e9e9e)
+![Shehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=IT21823398&hide_border=true&show_icons=true&bg_color=000000&title_color=9747ff&icon_color=9747ff&text_bold=false&text_color=9e9e9e)
