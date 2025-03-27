@@ -19,7 +19,7 @@
 </p>
 
 <p>Why not treat me to a cup of coffee? </p>
-<a href="https://www.buymeacoffee.com/shehanfernando" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 150px !important;" ></a>
+<a href="https://www.buymeacoffee.com/shehanfernando" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 150px !important;background-color: 000000;" ></a>
 
 <h3>My GitHub contributions summary</h3>
 
